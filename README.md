@@ -14,4 +14,4 @@ We have some big announcements in the works so please stay tuned in the coming w
 
 ### — The Skills Matter Team
 
-You might already be on our mailing list, but if you want to guarantee you receive updates on the future of Skills Matter,**[sign up here.](<https://forms.gle/DvyR6PJEfebcbmh87>) 
+You might already be on our mailing list, but if you want to guarantee you receive updates on the future of Skills Matter,**[sign up here.](<https://forms.gle/DvyR6PJEfebcbmh87>)** 
