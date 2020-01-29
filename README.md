@@ -1,4 +1,4 @@
-[Image](/We-are-back/blob/master/SkillsMatter-landing_page-collage.png)
+![](/SkillsMatter-landing_page-collage.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mnriviere/We-are-back/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
