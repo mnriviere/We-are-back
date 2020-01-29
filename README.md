@@ -1,3 +1,4 @@
+![](SM-gif.gif)
 ![](/SkillsMatter-landing_page-collage.png)
 
 # We are happy to announce that Skills Matter is back!
