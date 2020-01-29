@@ -1,3 +1,4 @@
+[Image](/We-are-back/blob/master/SkillsMatter-landing_page-collage.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mnriviere/We-are-back/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image]()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
