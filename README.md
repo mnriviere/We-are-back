@@ -1,4 +1,4 @@
-![](ezgif.com-optimize (3).gif)
+![](ezgif.com-optimize%20(3).gif)
 
 
 # We are happy to announce that Skills Matter is back!
